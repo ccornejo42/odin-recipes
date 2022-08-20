@@ -1,1 +1,2 @@
-# odin-recipes
+In this project, I will be creating an html file to present a recipe of my choice. 
+I will be demonstrate how to insert images and make anchors for links. Using ordered and unordered lists, I will show the list of ingredients and the steps to create a dish. I will show that I can add, commit and push files using git. Be able to link my github account to my directory and send good commit messages.
